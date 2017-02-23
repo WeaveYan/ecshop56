@@ -20,3 +20,7 @@
 
 + 修改数据库配置文件  ```data/config.php```  
 
+
+### 完善PHPCMS
+	如发现有漏洞，可以提交 问题给 林大雪 mrlindaxue@sina.com 谢谢支持
+	
