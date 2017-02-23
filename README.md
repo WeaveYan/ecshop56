@@ -14,8 +14,8 @@
 + 导入数据库文件 ```/data/ecshop_php56.sql```
 + 后台账号密码 
 	
-	```admin```  
-	```admin123```
-	
+	+ ```admin```  
+	+ ```admin123```
+
 + 修改数据库配置文件  ```data/config.php```  
 
