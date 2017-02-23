@@ -23,4 +23,10 @@
 
 ### 完善ECSHOP
 	如发现有漏洞，可以提交 问题给 林大雪 mrlindaxue@sina.com 谢谢支持
+
+
++ 首页1
+	![](http://qn.yun.u8code.org/statics/images/ecshop-001.png)
 	
++ 首页2
+	![](http://qn.yun.u8code.org/statics/images/ecshop-002.png)
